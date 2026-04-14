@@ -23,6 +23,19 @@
  
  *-*-*-*-*
  
+ ### Remerciements
+-----------------
+
+Merci a herve pour avoir ecrit cette version allégé de l'aquabouns MQTT
+
+
+ *-*-*-*-*
+ 
+ *-*-*-*-* *-*-*-*-* *-*-*-*-* *-*-*-*-* *-*-*-*-* *-*-*-*-* *-*-*-*-* *-*-*-*-* *-*-*-*-* *-*-*-*-* *-*-*-*-* *-*-*-*-*
+ 
+ *-*-*-*-*
+ 
+ 
 #### Soutenez le projet pour qu'il continue d’évoluer et d’être mis à disposition gratuitement en faisant un DON
 
 
